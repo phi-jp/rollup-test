@@ -1,0 +1,22 @@
+{
+  "name": "rollup-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phi-jp/rollup-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phi-jp/rollup-test/issues"
+  },
+  "homepage": "https://github.com/phi-jp/rollup-test#readme",
+  "dependencies": {
+    "rollup": "^1.7.0"
+  }
+}
